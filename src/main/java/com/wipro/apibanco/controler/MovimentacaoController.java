@@ -25,6 +25,7 @@ import com.wipro.apibanco.service.MovimentacaoService;
 @CrossOrigin("*")
 public class MovimentacaoController {
 	
+	
 	@Autowired
 	private MovimentacaoService service;
 	
